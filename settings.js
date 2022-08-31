@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['01098906252'] //ur owner number
-global.ownername = "Տᗩᖇᒪᗩ🐼🍷 ٫" //ur owner name
-global.ytname = "YT: Sarla" //ur yt chanel name
-global.socialm = "GitHub: Sarla" //ur github or insta name
+global.vcardowner = ['201228197707'] //ur owner number
+global.ownername = "BAMBINO🐼🍷 ٫" //ur owner name
+global.ytname = "YT:BAMBINO" //ur yt chanel name
+global.socialm = "GitHub:BAMBINO" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['01098906252']
-global.ownertag = '01098906252' //ur tag number
-global.botname = 'ᗷOT Տᗩᖇᒪᗩ🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
+global.owner = ['201228197707']
+global.ownertag = '201228197707' //ur tag number
+global.botname = 'BOT BAMBINO🐼🍷 ٫' //ur bot name
+global.linkz = "https://youtube.com/channel/UC3UeC8hj_Ob-OiPcJieWQ6g" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UC3UeC8hj_Ob-OiPcJieWQ6g" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemBt-MD' //script link
-global.reactmoji = "😍" //ur menu react emoji
+global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "⍣سارلا يكثمك🤓⍣" //ur sticker watermark packname
-global.author = "⍣ دور هتلاقيني😍 ⍣" //ur sticker watermark author
+global.packname = "⍣ 𝘉𝘈𝘔𝘉𝘐𝘕𝘖 ⍣" //ur sticker watermark packname
+global.author = "⍣ 01228197707 ⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['01098906252'] //ur premium numbers
+global.premium = ['201228197707'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: 'Done ✓',
     admin: 'هذه الميزة للمشرف فقط!',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
@@ -116,9 +116,9 @@ global.mess = {
     linkm: 'أين الرابط?',
     error: 'ايرور!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدر',
+    ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، تواصل مع المالك.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
-    banChat: 'تم حظر الروبوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر',
+    banChat: 'تم حظر الروبوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر'
 }
     global.limitawal = {
     premium: "Infinity",
