@@ -2,7 +2,7 @@
 
 <h1 align="center">BAMBINO🐼🍷 ٫<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/e003f745c48bada8abe50.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/bd6eec97ce2da5b7e10ab.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -33,14 +33,14 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/201098906252"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/201228197707"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/bd6eec97ce2da5b7e10ab.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
