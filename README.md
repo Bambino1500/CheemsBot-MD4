@@ -1,6 +1,6 @@
 
 
-<h1 align="center">𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫<br></h1>
+<h1 align="center">BAMBINO🐼🍷 ٫<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/e003f745c48bada8abe50.jpg" alt="animated" width="540" height="280" />
 </p>
